@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crn-droi
+- 👋 Hi, I’m Rudzani Ndou
 - 👀 I’m interested in Tech , because I am a techie🦃 you know what I mean🤣
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on GitHub with like-minded individuals
